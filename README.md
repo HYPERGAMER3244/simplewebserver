@@ -257,11 +257,7 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
 
 
 ## OUTPUT:
-![App](images/1.png)
-![App](images/2.png)
-![App](images/3.png)
-![App](images/4.png)
-
+![app](static/1.png)
 
 
 ## RESULT:
